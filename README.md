@@ -21,3 +21,7 @@ This project focuses on analyzing juvenile justice data to uncover trends, demog
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/juvenile-justice-data-analysis.git
+
+### **Included Links:**
+- **Google Colab Notebook:** Direct link to Colab notebook.
+- **Tableau Dashboard:** Direct link to Tableau dashboard.
